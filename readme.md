@@ -4,6 +4,9 @@
 ### 最新修改
 提交了第一次作业 data-structures
 
+### 备注
+base.cl/list.cl/main.cl/Makefile均自行完成，data-structures.cl借助AI生成基本内容后修改完成
+
 ## 目录结构
 ```text
 .
