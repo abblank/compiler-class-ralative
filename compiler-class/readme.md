@@ -5,11 +5,13 @@
 提交了第一次作业 data-structures
 
 ## 目录结构
+```text
 compiler-class/
 ├── bin
 ├── homework
 │   ├── data-structures
 └── lib
+```
 
 ## 使用方式
 ### 1. 克隆仓库到本地（或直接下载源码）：
